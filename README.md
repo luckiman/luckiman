@@ -8,8 +8,6 @@
 
 💥 Others: D3.js, ChartJS, React-hook-form, tanstack, Three.js, PixiJS PhaserJS, RESTful, Apollo GraphQL, Hasura, tRPC, Adobe XD, Adobe PhotoShop, Adobe After Effects
 
-💧 Web Development/Design: WordPress, Shopify, Magento, Wix, Webflow, Graphic Design, Logo Design, Web Design, Mobile App Design, E-commerce, WooCommerce
-
 ★ Blockchain: Solidity (ERC20, 721, 721A, 1155, and Other Smart Contracts), Web3.js, ethers.js, web3-react, wagmi, viem, rainbowkit
 
 Thanks a lot in advance! 
@@ -42,14 +40,6 @@ Thanks a lot in advance!
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
       <br>Express
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
-      <br>WordPress
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
