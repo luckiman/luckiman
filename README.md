@@ -1,6 +1,6 @@
 💧 FrontEnd: React, Next.js, Remix, Vue, Redux, Mobx,  Vuex, TailwindCSS, SCSS, MUI, Styled-component, Bootstrap,  Vuetify, Javascript, ES6+, Typescript
 
-🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Flask, AWS, Digital Ocen, Serverless, RESTFul API, PostgreSQL, Artificail Intelligence, Ruby on Rails
+🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Flask, ASP.NET, AWS, Digital Ocen, Serverless, RESTFul API, PostgreSQL, Artificail Intelligence, Ruby on Rails
 
 ☀️ Mobile App: React Native, Android Java, C#
 
@@ -48,6 +48,10 @@ Thanks a lot in advance!
     <td align="center" width="90">
       <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original-wordmark.svg" title="Phoenix" alt="Phoenix " width="45" height="45"/>
       <br>Phoenix
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=dotnet" title="ASP.NET" alt="ASP.NET " width="45" height="45"/>
+      <br>ASP.NET
     </td>
   </tr>
   <tr>
