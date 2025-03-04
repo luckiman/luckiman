@@ -50,8 +50,8 @@ Thanks a lot in advance!
       <br>Phoenix
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=dotnet" title="ASP.NET" alt="ASP.NET " width="45" height="45"/>
-      <br>ASP.NET
+      <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" alt=".NET " width="45" height="45"/>
+      <br>.NET
     </td>
   </tr>
   <tr>
